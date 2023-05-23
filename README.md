@@ -9,3 +9,4 @@ Project work for Diploma
 4)При увеличении скорости генерации должен появиться соответствующий значок
 5)На экране должно отображаться количество успешно собранных объектов.
 https://trello.com/b/oNw7WDtz/HAT-Trick
+https://trello.com/b/oNw7WDtz/hat-trick
