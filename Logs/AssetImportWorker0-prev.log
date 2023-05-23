@@ -1,0 +1,592 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.29f1 (2ff179115da0) revision 3142009'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Enterprise' Language: 'ru' Physical Memory: 6272 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.29f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/COCR/Desktop/hat-trick-master
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63561
+Successfully changed project path to: C:/Users/COCR/Desktop/hat-trick-master
+C:/Users/COCR/Desktop/hat-trick-master
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 79.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.29f1 (2ff179115da0)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.29f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/COCR/Desktop/hat-trick-master/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   30.0.14.9729
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.29f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.29f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.29f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56168
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.29f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.29f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003531 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 57.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.844 seconds
+Domain Reload Profiling:
+	ReloadAssembly (844ms)
+		BeginReloadAssembly (96ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (653ms)
+			LoadAssemblies (93ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (204ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (49ms)
+			SetupLoadedEditorAssemblies (250ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (57ms)
+				BeforeProcessingInitializeOnLoad (12ms)
+				ProcessInitializeOnLoadAttributes (128ms)
+				ProcessInitializeOnLoadMethodAttributes (46ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005133 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.612 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1613ms)
+		BeginReloadAssembly (222ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (1295ms)
+			LoadAssemblies (150ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (485ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (66ms)
+			SetupLoadedEditorAssemblies (419ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (81ms)
+				ProcessInitializeOnLoadAttributes (308ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (74ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1537 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.6 MB.
+System memory in use after: 69.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1971.
+Total: 4.275500 ms (FindLiveObjects: 0.163600 ms CreateObjectMapping: 0.069900 ms MarkObjects: 3.970100 ms  DeleteObjects: 0.071300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/_Hat Trick/Scenes/main.unity
+  artifactKey: Guid(f1090e1ad02bb75429c2eb8207050f72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Scenes/main.unity using Guid(f1090e1ad02bb75429c2eb8207050f72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f5b1fcd41d1ca3f9e325fe530e5d184') in 0.025888 seconds 
+  Import took 0.031968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.117970 seconds.
+  path: Assets/_Hat Trick/Physics Material/Bowling Ball.physicsMaterial2D
+  artifactKey: Guid(0ad844bab8fd77e499b7b82af4f5080a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Physics Material/Bowling Ball.physicsMaterial2D using Guid(0ad844bab8fd77e499b7b82af4f5080a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2c962deb54712ea43d982db9ee68b61') in 0.179477 seconds 
+  Import took 0.188845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.521320 seconds.
+  path: Assets/_Hat Trick/Prefabs/BowlingBallSprite 1.prefab
+  artifactKey: Guid(5faae8b1af6b13d46a70466fa7dc1549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Prefabs/BowlingBallSprite 1.prefab using Guid(5faae8b1af6b13d46a70466fa7dc1549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5770274aa9a49baa6ec693667c914bff') in 0.037475 seconds 
+  Import took 0.043843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.330218 seconds.
+  path: Assets/_Hat Trick/Sprites/BombSprite.png
+  artifactKey: Guid(d3a2bc992242246139bc03639a0db6d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Sprites/BombSprite.png using Guid(d3a2bc992242246139bc03639a0db6d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cd2af7735dcb4d7c1f5d12e59e17337') in 0.237889 seconds 
+  Import took 0.250629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/_Hat Trick/Sprites/HatBackSprite.png
+  artifactKey: Guid(6901eb77571e744fe8f25a4a51a7316d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Sprites/HatBackSprite.png using Guid(6901eb77571e744fe8f25a4a51a7316d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83cc14939e7bbc2ccbe773f5af1b24d2') in 0.046611 seconds 
+  Import took 0.050727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/_Hat Trick/Sprites/GrassSprite.png
+  artifactKey: Guid(7b4ce5a7ee3904ff1ae190d7736eeeaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Sprites/GrassSprite.png using Guid(7b4ce5a7ee3904ff1ae190d7736eeeaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03cbbc5549c8d92a78f96dd782c52e86') in 0.043604 seconds 
+  Import took 0.065065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/_Hat Trick/Sprites/StartPressSprite.png
+  artifactKey: Guid(34bae2b4eda43488eb4179f515932a65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Sprites/StartPressSprite.png using Guid(34bae2b4eda43488eb4179f515932a65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3094f7ee2b98bc82993ab8cb0d7907c6') in 0.039912 seconds 
+  Import took 0.044188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001907 seconds.
+  path: Assets/_Hat Trick/Sprites/Hat.psd
+  artifactKey: Guid(d97c72ad2f446cd498bd395bd01106ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Sprites/Hat.psd using Guid(d97c72ad2f446cd498bd395bd01106ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a075300004af4a3c899b274f43a460d2') in 0.045792 seconds 
+  Import took 0.085865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/_Hat Trick/Sprites/hattrick.png
+  artifactKey: Guid(6adbcf9a71bf27e4595492b757f237c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Sprites/hattrick.png using Guid(6adbcf9a71bf27e4595492b757f237c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2e875b7e644a87badf7a54fa4d374e5') in 0.072765 seconds 
+  Import took 0.078286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/_Hat Trick/Sprites/BowlingBallSprite.png
+  artifactKey: Guid(5d633eab4d3426c4e9ea6106cb54052a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Sprites/BowlingBallSprite.png using Guid(5d633eab4d3426c4e9ea6106cb54052a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df6f2903851e934836bc0e961dedf081') in 0.062872 seconds 
+  Import took 0.068214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/_Hat Trick/Sprites/HatFrontSprite.png
+  artifactKey: Guid(b2adb93fe7d2449dc906d0f559214f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Sprites/HatFrontSprite.png using Guid(b2adb93fe7d2449dc906d0f559214f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a7c5717bfaa29de856cc18a2cba1603') in 0.063516 seconds 
+  Import took 0.071430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/_Hat Trick/Sprites/SkySprite.png
+  artifactKey: Guid(8a5a9fd6238654fee876913b6aedc962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Sprites/SkySprite.png using Guid(8a5a9fd6238654fee876913b6aedc962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bb2b390279b191c25977f850db2a0cf') in 0.045193 seconds 
+  Import took 0.052913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/_Hat Trick/Sprites/RestartPressSprite.png
+  artifactKey: Guid(93fbb35d93d064dcfa0b4f675f92b1cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Sprites/RestartPressSprite.png using Guid(93fbb35d93d064dcfa0b4f675f92b1cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fce97edcd259c960b3e99765c2224f97') in 0.051647 seconds 
+  Import took 0.058620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/_Hat Trick/Sprites/RestartIdleSprite.png
+  artifactKey: Guid(e93aa3f9bbe684ee2a127ded2d5b2062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Sprites/RestartIdleSprite.png using Guid(e93aa3f9bbe684ee2a127ded2d5b2062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a77e7f30eee7d65cc241d36d0d2d7cd') in 0.047994 seconds 
+  Import took 0.058298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000536 seconds.
+  path: Assets/_Hat Trick/Sprites/ExplosionSprite.png
+  artifactKey: Guid(ec8e34c97ef2ee34395623fb7e4b0054) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Sprites/ExplosionSprite.png using Guid(ec8e34c97ef2ee34395623fb7e4b0054) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9d4233035b8e1428f1f1a53b634207c') in 0.105628 seconds 
+  Import took 0.116038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000872 seconds.
+  path: Assets/_Hat Trick/Sprites/RestartHoverSprite.png
+  artifactKey: Guid(bcf6abb1ae30d475d9ac319c6c1f6698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Sprites/RestartHoverSprite.png using Guid(bcf6abb1ae30d475d9ac319c6c1f6698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '778605dd47d065252d7a536c814d1edb') in 0.031594 seconds 
+  Import took 0.108527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/_Hat Trick/Sprites/HatSplashSprite.png
+  artifactKey: Guid(e9be043caef9841aaa0ccf63db879072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Sprites/HatSplashSprite.png using Guid(e9be043caef9841aaa0ccf63db879072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9653bcb4ae67932ca0512213a7745b') in 0.088542 seconds 
+  Import took 0.092292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/_Hat Trick/Sprites/StartHoverSprite.png
+  artifactKey: Guid(54f60b70381834e6697610b1a4de5a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Sprites/StartHoverSprite.png using Guid(54f60b70381834e6697610b1a4de5a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5af261681fbe26a91ade53294b9e8383') in 0.037453 seconds 
+  Import took 0.082515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000474 seconds.
+  path: Assets/_Hat Trick/Sprites/StartIdleSprite.png
+  artifactKey: Guid(2cc59a16aefbf4fc689a7bde4f29129b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Sprites/StartIdleSprite.png using Guid(2cc59a16aefbf4fc689a7bde4f29129b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dd10946d9a0e68c4a2338ad7e3eef28') in 0.030666 seconds 
+  Import took 0.328099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.649051 seconds.
+  path: Assets/Example Games/2D Scrolling Shooter/Scripts/Manager.cs
+  artifactKey: Guid(c85257fa188b84eac8e84ea49bd42f5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Example Games/2D Scrolling Shooter/Scripts/Manager.cs using Guid(c85257fa188b84eac8e84ea49bd42f5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffba5e17cae7032b0348917550de5c93') in 0.013418 seconds 
+  Import took 0.017046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.146893 seconds.
+  path: Assets/Example Games/2D Scrolling Shooter/Scripts/Manager.cs
+  artifactKey: Guid(c85257fa188b84eac8e84ea49bd42f5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Example Games/2D Scrolling Shooter/Scripts/Manager.cs using Guid(c85257fa188b84eac8e84ea49bd42f5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bbf002700545c73bb0214181561bdac') in 0.002625 seconds 
+  Import took 0.007767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.883504 seconds.
+  path: Assets/Example Games/2D Scrolling Shooter/Scripts/Manager.cs
+  artifactKey: Guid(c85257fa188b84eac8e84ea49bd42f5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Example Games/2D Scrolling Shooter/Scripts/Manager.cs using Guid(c85257fa188b84eac8e84ea49bd42f5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e8c60e881573278a8b4ab39a84036d5') in 0.002942 seconds 
+  Import took 0.007202 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002591 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 14.060 seconds
+Domain Reload Profiling:
+	ReloadAssembly (14065ms)
+		BeginReloadAssembly (172ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (51ms)
+		EndReloadAssembly (13812ms)
+			LoadAssemblies (128ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (434ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (160ms)
+			SetupLoadedEditorAssemblies (6841ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (179ms)
+				ProcessInitializeOnLoadAttributes (4142ms)
+				ProcessInitializeOnLoadMethodAttributes (1824ms)
+				AfterProcessingInitializeOnLoad (679ms)
+				EditorAssembliesLoaded (2ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4841ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1531 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1991.
+Total: 4.250800 ms (FindLiveObjects: 0.179500 ms CreateObjectMapping: 0.081000 ms MarkObjects: 3.969700 ms  DeleteObjects: 0.019400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 297.913690 seconds.
+  path: Assets/Example Games/Angry Birds Style/Sprites/AsteroidSprite.png
+  artifactKey: Guid(8f8dd579579468a44aeaf67d75cdf55b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Example Games/Angry Birds Style/Sprites/AsteroidSprite.png using Guid(8f8dd579579468a44aeaf67d75cdf55b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ac60db44abafee707b08d483cdc4912') in 1.340178 seconds 
+  Import took 1.348776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Example Games/Angry Birds Style/Sprites/BirdEnemyDeathSprite.png
+  artifactKey: Guid(8120f573dcfe0db4ea4ed69bc2495a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Example Games/Angry Birds Style/Sprites/BirdEnemyDeathSprite.png using Guid(8120f573dcfe0db4ea4ed69bc2495a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7ae18e0bcc8583db51d76de01351e02') in 0.063615 seconds 
+  Import took 0.068980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Sprites/BallSprite.png
+  artifactKey: Guid(7931262bee02b4179ab843cecd12cb07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/BallSprite.png using Guid(7931262bee02b4179ab843cecd12cb07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e526ad0597caafe0af1b575926cfb5c0') in 0.204209 seconds 
+  Import took 0.209523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Sprites/BowlingBallSprite.png
+  artifactKey: Guid(5816beacfd8204e4fa223255ce2ac467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/BowlingBallSprite.png using Guid(5816beacfd8204e4fa223255ce2ac467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70c68bb9f6023e8777fd4cf89def5e8b') in 0.053392 seconds 
+  Import took 0.056824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008693 seconds.
+  path: Assets/Sprites/BombLitSprite.png
+  artifactKey: Guid(23f2dcab7a131324d922cfb2bd07db80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/BombLitSprite.png using Guid(23f2dcab7a131324d922cfb2bd07db80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c115dde514ed75bd58f05ff643b9f45f') in 0.079463 seconds 
+  Import took 0.086277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/Sprites/BirdHeroSprite.png
+  artifactKey: Guid(a9c136f9dcfd3954fa0f3fab6260607f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/BirdHeroSprite.png using Guid(a9c136f9dcfd3954fa0f3fab6260607f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e0caa78e3ddf8f841404276464dc26a') in 0.221425 seconds 
+  Import took 0.225334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Sprites/CatapultBackSprite.png
+  artifactKey: Guid(84c7c25bd260747be85456fa9c48c4b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CatapultBackSprite.png using Guid(84c7c25bd260747be85456fa9c48c4b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '807078de21c336f7ad36beef5122ec2c') in 0.054154 seconds 
+  Import took 0.059146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Example Games/Flappy Bird Style/Sprites/BirdHero.png
+  artifactKey: Guid(b9679ce5047dd48bbbf37321679fa793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Example Games/Flappy Bird Style/Sprites/BirdHero.png using Guid(b9679ce5047dd48bbbf37321679fa793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d08c3c0bcef0a3f9f34f18be8e5e2d2') in 0.067658 seconds 
+  Import took 0.074333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Sprites/BombSprite.png
+  artifactKey: Guid(91a6f4c9b969b4bb9866c25cba77273c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/BombSprite.png using Guid(91a6f4c9b969b4bb9866c25cba77273c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56b8d1e2f95f4f6c8f4d99bc475c6cfe') in 0.018885 seconds 
+  Import took 0.059799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Example Games/2D Scrolling Shooter/Sprites/Bullet/RetroBullet.png
+  artifactKey: Guid(9a0317eefd42740f0997b1c4587a47ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Example Games/2D Scrolling Shooter/Sprites/Bullet/RetroBullet.png using Guid(9a0317eefd42740f0997b1c4587a47ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ff21d29f449e1863cfb2a4731937031') in 0.063447 seconds 
+  Import took 0.070871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000885 seconds.
+  path: Assets/Sprites/RetroBullet.png
+  artifactKey: Guid(fb16cc86978e6464d9ecc8802812674a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/RetroBullet.png using Guid(fb16cc86978e6464d9ecc8802812674a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d36c0d4811d2bac27fc325692d48580') in 0.141883 seconds 
+  Import took 0.151339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Sprites/AsteroidSprite.png
+  artifactKey: Guid(bc15c6ea9b0124465b164fd3e89c578d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/AsteroidSprite.png using Guid(bc15c6ea9b0124465b164fd3e89c578d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b37897e536119ce4a7052837eae07fc') in 2.140181 seconds 
+  Import took 2.337104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Sprites/BirdEnemyDeathSprite.png
+  artifactKey: Guid(9a9871d79d525ab499dd167fd35c46ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/BirdEnemyDeathSprite.png using Guid(9a9871d79d525ab499dd167fd35c46ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a57f96bbc760db3ceafe9de7d9a8609') in 0.057366 seconds 
+  Import took 0.065828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Sprites/BirdEnemyFlapSprite.png
+  artifactKey: Guid(86ce912717672b8429c58e6960c12e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/BirdEnemyFlapSprite.png using Guid(86ce912717672b8429c58e6960c12e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ab47163dbf7b21648c33a3e662898db') in 0.062161 seconds 
+  Import took 0.066412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.194275 seconds.
+  path: Assets/Sprites/CatapultFrontSprite.png
+  artifactKey: Guid(b24d8371c5d8d4523bb53376999757c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CatapultFrontSprite.png using Guid(b24d8371c5d8d4523bb53376999757c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '738d16b73b37778afb106b626e24827a') in 0.037539 seconds 
+  Import took 0.204755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Example Games/Angry Birds Style/Sprites/CatapultSprite.png
+  artifactKey: Guid(7f43d8e1e9c754145a076c05a0e0ab9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Example Games/Angry Birds Style/Sprites/CatapultSprite.png using Guid(7f43d8e1e9c754145a076c05a0e0ab9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39724ae14874438049236f8d413ee876') in 0.073889 seconds 
+  Import took 0.084181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.262308 seconds.
+  path: Assets/_Hat Trick/Scripts/GameController.cs
+  artifactKey: Guid(aa17567460a5acd438e2184ffe9f5467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Scripts/GameController.cs using Guid(aa17567460a5acd438e2184ffe9f5467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aad784c7c2183a7230bb409dfa6aeae6') in 0.010796 seconds 
+  Import took 0.026405 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007328 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.15 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.266 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2267ms)
+		BeginReloadAssembly (220ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (63ms)
+		EndReloadAssembly (1870ms)
+			LoadAssemblies (225ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (670ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (85ms)
+			SetupLoadedEditorAssemblies (641ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (135ms)
+				ProcessInitializeOnLoadAttributes (440ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
+				AfterProcessingInitializeOnLoad (23ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (16ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1531 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.7 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2000.
+Total: 7.304700 ms (FindLiveObjects: 0.171000 ms CreateObjectMapping: 0.621600 ms MarkObjects: 6.485500 ms  DeleteObjects: 0.025600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 53.941408 seconds.
+  path: Assets/_Hat Trick/Scripts/contactDestroy.cs
+  artifactKey: Guid(44f4b197bb26ecb468d2e011b4bf485b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Scripts/contactDestroy.cs using Guid(44f4b197bb26ecb468d2e011b4bf485b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '173eca76e4433b00f96df30e0744db7d') in 0.013363 seconds 
+  Import took 0.018318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.631670 seconds.
+  path: Assets/_Hat Trick/Scripts/Score.cs
+  artifactKey: Guid(a65d16db221617c4d9d0bf8dd1f7a684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Scripts/Score.cs using Guid(a65d16db221617c4d9d0bf8dd1f7a684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9149598d068e402f1cb578226a77dcec') in 0.111737 seconds 
+  Import took 0.125685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.954349 seconds.
+  path: Assets/_Hat Trick/Scripts/HatController.cs
+  artifactKey: Guid(1c62f298b9527aa4fb37211714c71bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Scripts/HatController.cs using Guid(1c62f298b9527aa4fb37211714c71bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '470f4972d82a515a9fe2f61aff7db78f') in 0.010043 seconds 
+  Import took 0.016823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.579991 seconds.
+  path: Assets/_Hat Trick/Scripts/Restart.cs
+  artifactKey: Guid(74c4abdb18b6bed459b3dfbdb34650f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Hat Trick/Scripts/Restart.cs using Guid(74c4abdb18b6bed459b3dfbdb34650f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '346b986d8d3507f0822aafb81422dc66') in 0.029846 seconds 
+  Import took 0.036220 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
