@@ -10,4 +10,5 @@ Project work for Diploma
 5)На экране должно отображаться количество успешно собранных объектов.
 
 
-https://trello.com/b/oNw7WDtz/hat-trick
+Trello: https://trello.com/b/oNw7WDtz/hat-trick
+https://docs.google.com/document/d/1_saNEYGWZxzrjrTWJowHV7EwWraTakhZa6OycJTToXo/edit
